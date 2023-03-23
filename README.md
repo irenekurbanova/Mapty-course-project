@@ -12,3 +12,5 @@ Some features:
  - CSS
  - JavaScript
  - API leaflet map
+ 
+This project is based on Jonas Schmedtmann's Mapty project.
